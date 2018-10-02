@@ -33,7 +33,7 @@ https://vijayt.com/post/javascript-trivia-interview-questions/
 
 # ANTLR
 
-http://www.antlr.org/
-https://tomassetti.me/antlr-and-the-web/
-https://tomassetti.me/antlr-mega-tutorial/
-https://medium.com/dailyjs/compiler-in-javascript-using-antlr-9ec53fd2780f
+01. http://www.antlr.org/
+02. https://tomassetti.me/antlr-and-the-web/
+03. https://tomassetti.me/antlr-mega-tutorial/
+04. https://medium.com/dailyjs/compiler-in-javascript-using-antlr-9ec53fd2780f
