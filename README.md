@@ -37,3 +37,6 @@ https://vijayt.com/post/javascript-trivia-interview-questions/
 02. https://tomassetti.me/antlr-and-the-web/
 03. https://tomassetti.me/antlr-mega-tutorial/
 04. https://medium.com/dailyjs/compiler-in-javascript-using-antlr-9ec53fd2780f
+
+# ASSEMBLYSCRIPT
+https://github.com/AssemblyScript/assemblyscript
